@@ -30,7 +30,7 @@
 * Significant Features with increases in Precisions: 
 * Significant Features with decreases in Hamming Loss: 
 * Significant Features with decreases in Brier Loss: 
-##### Significant Features: 
+* Significant Features: 
 
 ####B. Generate and Evaluate a Model with these features
 
