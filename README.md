@@ -24,17 +24,9 @@
 #####Future Developements:
 * Develope model that can Identify Mushrooms based on given given characteristics
 
-#####Open Issues:
-######A. Evaluation: Discern Significant Features by noting when features' evaluation metrics' values have favorable changes between model fittings
-* Significant Features with increases in Accuracy:
-* Significant Features with increases in Precisions: 
-* Significant Features with decreases in Hamming Loss: 
-* Significant Features with decreases in Brier Loss: 
-* Significant Features: 
-
-######B. Generate and Evaluate a Model with these features
-
 ######Data Source
 UCI Dataset via:
 * Mushroom records drawn from The Audubon Society Field Guide to North American Mushrooms (1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf 
-* Donor: [Jeff Schlimmer] (Jeffrey.Schlimmer@a.gp.cs.cmu.edu) 
+* Donor: [Jeff Schlimmer] (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)
+
+#####This repository contains an IPython Notebook providing a walkthrough of my project I delivered at Metis
